@@ -1,5 +1,0 @@
-class BrakeBanner{
-	constructor(selector){
-		
-	}
-}
